@@ -13,7 +13,7 @@ non-trivial tasks, which help me develop as a specialist
 
 Want to know more about me? [Check out my portfolio.]()
 
-## 📌 Pinned Repositories
+### 📌 Pinned Repositories
 [![-----------------------------------------------------](./assets/line.png)]()
 
 
@@ -21,7 +21,7 @@ Want to know more about me? [Check out my portfolio.]()
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dread707&repo=Dread707&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=253045&border_color=253045" />
 </a>
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 [![-----------------------------------------------------](./assets/line.png)]()
 
 <a href="https://github.com/Dread707">
@@ -32,27 +32,26 @@ Want to know more about me? [Check out my portfolio.]()
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dread707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=253045&border_color=253045" alt="Anton's GitHub Stats" />
 </a>
 
-## 💼 Tech & Tools Preference
+### 💼 Tech & Tools Preference
 [![-----------------------------------------------------](./assets/line.png)]()
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/-Nuxt-434242?style=flat&amp;logo=Nuxt.js&amp;logoColor=4FC08D">
-<img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
-
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white"> 
-<img src="https://img.shields.io/badge/-Eslint-4B32C3?style=flat&amp;logo=eslint&amp;logoColor=white"> 
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&amp;logo=gitlab&amp;"> 
-<img src="https://img.shields.io/badge/npm-%232C8EBB.svg?style=flat&logo=npm&logoColor=white;">
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;">
-<img src="https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white"> 
-<img src="https://img.shields.io/badge/-Storybook-563D7C.svg?style=flat&amp;logo=storybook&amp;logoColor=white"> 
-<img src="https://img.shields.io/badge/-Webpack | Rollup | esbuild -blue.svg?style=flat&amp;logo=webpack&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Vite-000000?style=flat&logo=Vite">
-<img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm">
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
+![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/-Nuxt-434242?style=flat&amp;logo=Nuxt.js&amp;logoColor=4FC08D)
+![](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white)
+![](https://img.shields.io/badge/-Eslint-4B32C3?style=flat&amp;logo=eslint&amp;logoColor=white)
+![](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-GitLab-FCA121?style=flat&amp;logo=gitlab&amp;)
+![](https://img.shields.io/badge/npm-%232C8EBB.svg?style=flat&logo=npm&logoColor=white;)
+![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;)
+![](https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white)
+![](https://img.shields.io/badge/-Storybook-563D7C.svg?style=flat&amp;logo=storybook&amp;logoColor=white)
+![](https://img.shields.io/badge/-Webpack | Rollup | esbuild -blue.svg?style=flat&amp;logo=webpack&amp;logoColor=white)
+![](https://img.shields.io/badge/Vite-000000?style=flat&logo=Vite)
+![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm)
 
