@@ -1,4 +1,4 @@
-![Anton's GitHub Banner](https://github.com/Dread707/Dread707/blob/main/assets/banner.gif)
+![](https://github.com/Dread707/Dread707/blob/main/assets/banner.gif)
 
 ![](https://komarev.com/ghpvc/?username=Dread707)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dread707)
