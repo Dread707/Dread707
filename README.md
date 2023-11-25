@@ -1,4 +1,5 @@
 ![](https://github.com/Dread707/Dread707/blob/main/assets/banner.gif)
+<img src="./assets/banner.gif?raw=true">
 
 ![](https://komarev.com/ghpvc/?username=Dread707)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dread707)
