@@ -3,6 +3,7 @@
     <img src="https://github.com/Dread707/Dread707/blob/main/banner.gif">
   </a>
 </div>
+![banner](https://github.com/Dread707/Dread707/assets/38924549/155b643b-5d64-49ee-b1cf-dd02c6acfdc5)
 
 ![](https://komarev.com/ghpvc/?username=Dread707)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dread707)
