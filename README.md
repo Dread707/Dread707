@@ -1,6 +1,6 @@
 <div align="center">
   <a rel="nofollow" href="https://github.com/Dread707">
-    <img src="https://github.com/Dread707/Dread707/blob/main/banner.gif">
+    <img src="https://github.com/Dread707/Dread707/assets/38924549/155b643b-5d64-49ee-b1cf-dd02c6acfdc5">
   </a>
 </div>
 ![banner](https://github.com/Dread707/Dread707/assets/38924549/155b643b-5d64-49ee-b1cf-dd02c6acfdc5)
