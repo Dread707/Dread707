@@ -1,6 +1,3 @@
-<h2 align="center">
-    
-</h2>
 <div align="center">
   <a rel="nofollow" href="https://github.com/Dread707">
     <img src="https://github.com/Dread707/Dread707/blob/main/banner.gif">
