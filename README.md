@@ -1,12 +1,11 @@
-![](https://github.com/Dread707/Dread707/blob/main/assets/banner.gif)
-<img src="https://github.com/Dread707/Dread707/blob/main/assets/banner.gif?raw=true">
+[![Anton's GitHub Banner](assets/banner.gif)]()
 
 ![](https://komarev.com/ghpvc/?username=Dread707)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dread707)
 
 [//]: # ([![LinkedIn Badge]&#40;https://img.shields.io/badge/HeadHunter-Profile-informational.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTI0IDQ4YzEzLjI1NSAwIDI0LTEwLjc0NSAyNC0yNFMzNy4yNTUgMCAyNCAwIDAgMTAuNzQ1IDAgMjRzMTAuNzQ1IDI0IDI0IDI0IiBmaWxsPSIjRDYwMDFDIi8+CiAgICA8cGF0aCBkPSJNMTMuNjUgMTMuMTY5djguMTY0YzEuMjQzLTEuNDgyIDIuNzMzLTIuMjI4IDQuNDYxLTIuMjI4Ljg5IDAgMS42ODcuMTcgMi40MDIuNTA3LjcxNy4zMzUgMS4yNTMuNzY1IDEuNjE1IDEuMjg3LjM2NC41MjcuNjEgMS4xMDQuNzQzIDEuNzQuMTMyLjYzMy4xOTggMS42MTguMTk4IDIuOTU0djguNzI5aC0zLjg2MlYyNi40NmMwLTEuNTYtLjA3LTIuNTQ4LS4yMTctMi45NjhhMS45MTcgMS45MTcgMCAwIDAtLjc3NS0xYy0uMzcyLS4yNTEtLjgzNS0uMzc1LTEuMzk0LS4zNzUtLjY0IDAtMS4yMTQuMTYtMS43MTMuNDc4LS41MS4zMi0uODc2Ljc5OC0xLjEwOCAxLjQzNy0uMjM2LjY0LS4zNTQgMS41ODUtLjM1IDIuODM2bC0uMDA0IDcuNDU0SDkuNzg5VjEzLjE2OWgzLjg2Mm0xNS4yMDYgMHY4LjE2NGMxLjI0NC0xLjQ4MiAyLjczMy0yLjIyOCA0LjQ2LTIuMjI4Ljg4NyAwIDEuNjkuMTcgMi40MDYuNTA3LjcxNC4zMzUgMS4yNS43NjUgMS42MSAxLjI4N2E0LjY5IDQuNjkgMCAwIDEgLjc0MyAxLjc0Yy4xMzMuNjMzLjE5OSAxLjYxOC4xOTkgMi45NTR2OC43MjloLTMuODU4VjI2LjQ2YzAtMS41Ni0uMDczLTIuNTQ4LS4yMi0yLjk2OGExLjkxIDEuOTEgMCAwIDAtLjc3Ny0xYy0uMzY4LS4yNTEtLjgzNS0uMzc1LTEuMzk0LS4zNzUtLjYzOSAwLTEuMjEzLjE2LTEuNzEzLjQ3OC0uNTAzLjMyLS44NzEuNzk4LTEuMTA2IDEuNDM3LS4yMzIuNjQtLjM1IDEuNTg1LS4zNSAyLjgzNnY3LjQ1NEgyNVYxMy4xNjloMy44NTciCiAgICAgICAgICBmaWxsPSIjRkVGRUZFIi8+Cjwvc3ZnPg==&#41;]&#40;&#41;)
 
-Hey there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6887C3&random=false&width=435&lines=Hey+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm Anton, a middle engineer specializing in front-end development of various large-scale web applications. I challenge 
 myself to turn user-centered design into perfect websites or apps that run incredibly fast. I love difficult and 
