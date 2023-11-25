@@ -1,4 +1,4 @@
-![](https://github.com/Dread707/Dread707/blob/main/assets/banner.gif)()
+![](https://github.com/Dread707/Dread707/blob/main/assets/banner.gif)
 <img src="https://github.com/Dread707/Dread707/blob/main/assets/banner.gif?raw=true">
 
 ![](https://komarev.com/ghpvc/?username=Dread707)
