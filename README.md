@@ -51,7 +51,7 @@ Want to know more about me? [Check out my portfolio.]()
 ![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;)
 ![](https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white)
 ![](https://img.shields.io/badge/-Storybook-563D7C.svg?style=flat&amp;logo=storybook&amp;logoColor=white)
-![](https://img.shields.io/badge/-Webpack | Rollup | esbuild -blue.svg?style=flat&amp;logo=webpack&amp;logoColor=white)
+![](https://img.shields.io/badge/-Webpack-blue.svg?style=flat&amp;logo=webpack&amp;logoColor=white)
 ![](https://img.shields.io/badge/Vite-000000?style=flat&logo=Vite)
 ![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm)
 
