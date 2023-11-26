@@ -1,9 +1,8 @@
 <div align="center">
   <a rel="nofollow" href="https://github.com/Dread707">
-    <img src="https://github.com/Dread707/Dread707/assets/38924549/155b643b-5d64-49ee-b1cf-dd02c6acfdc5">
+    <img src="https://github.com/Dread707/Dread707/assets/38924549/da8e2f85-57a8-489f-b39f-9b376a467f4e">
   </a>
 </div>
-![banner](https://github.com/Dread707/Dread707/assets/38924549/155b643b-5d64-49ee-b1cf-dd02c6acfdc5)
 
 ![](https://komarev.com/ghpvc/?username=Dread707)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dread707)
