@@ -17,6 +17,8 @@ non-trivial tasks, which help me develop as a specialist
 
 Want to know more about me? [Check out my portfolio.]()
 
+<br></br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6887C3&random=false&width=435&lines=%F0%9F%93%8C+Pinned+Repositories)](https://git.io/typing-svg)
 [![-----------------------------------------------------](./assets/line.png)]()
 
