@@ -21,8 +21,8 @@ Want to know more about me? [Check out my portfolio.]()
 [![-----------------------------------------------------](./assets/line.png)]()
 
 
-<a href="https://github.com/Dread707/Dread707">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dread707&repo=Dread707&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=253045&border_color=253045" />
+<a href="https://github.com/Dread707/my-portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dread707&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=253045&border_color=253045" />
 </a>
 
 <br></br>
