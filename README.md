@@ -38,6 +38,8 @@ Want to know more about me? [Check out my portfolio.]()
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dread707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=253045&border_color=253045" alt="GitHub Stats" />
 </a>
 
+<br></br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6887C3&random=false&width=435&lines=%F0%9F%92%BC+Tech+%26+Tools+Preference)](https://git.io/typing-svg)
 [![-----------------------------------------------------](./assets/line.png)]()
 
